@@ -1,0 +1,41 @@
+.ft-mont {
+  font-family: 'Montserrat', sans-serif;
+}
+.ft-gothic {
+  font-family: 'gothic', sans-serif;
+}
+.ft-light{
+  font-weight: 300;
+}
+.ft-regular{
+  font-weight: 400;
+}
+.ft-medium {
+  font-weight: 500;
+}
+.ft-semibold {
+  font-weight: 600;
+}
+.ft-bold {
+  font-weight: 700;
+}
+.ft-italic {
+  font-style: italic;
+}
+
+.bg-yellow{
+  background-color: var(--background-yellow);
+}
+
+.mb-20{
+  margin-bottom: 20px;
+}
+.mb-40{
+  margin-bottom: 40px;
+}
+.mb-60{
+  margin-bottom: 60px;
+}
+.mb-110{
+  margin-bottom: 110px;
+}
